@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/freezed_test/melos_freezed_test.iml" filepath="$PROJECT_DIR$/packages/freezed_test/melos_freezed_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/melos_experiment/melos_melos_experiment.iml" filepath="$PROJECT_DIR$/apps/melos_experiment/melos_melos_experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_melos_experiment.iml" filepath="$PROJECT_DIR$/melos_melos_experiment.iml" />
+    </modules>
+  </component>
+</project>
